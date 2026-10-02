@@ -7,7 +7,7 @@ My homework solutions for the [DataTalksClub Machine Learning Zoomcamp 2026](htt
 | Module | Topic                                 | Status      |
 | ------ | ------------------------------------- | ----------- |
 | 01     | Introduction to Machine Learning      | ✅ Completed |
-| 02     | Machine Learning for Regression       | ⬜           |
+| 02     | Machine Learning for Regression       | ✅ Completed |
 | 03     | Machine Learning for Classification   | ⬜           |
 | 04     | Evaluation Metrics for Classification | ⬜           |
 | 05     | Deploying Machine Learning Models     | ⬜           |
