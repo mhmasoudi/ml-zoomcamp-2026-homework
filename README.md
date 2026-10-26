@@ -10,7 +10,7 @@ My homework solutions for the [DataTalksClub Machine Learning Zoomcamp 2026](htt
 | 02     | Machine Learning for Regression       | ✅ Completed |
 | 03     | Machine Learning for Classification   | ✅ Completed |
 | 04     | Evaluation Metrics for Classification | ✅ Completed |
-| 05     | Deploying Machine Learning Models     | ⬜           |
+| 05     | Deploying Machine Learning Models     | ✅ Completed |
 | 06     | Decision Trees and Ensemble Learning  | ⬜           |
 | 08     | Neural Networks and Deep Learning     | ⬜           |
 | 09     | Serverless Deep Learning              | ⬜           |
